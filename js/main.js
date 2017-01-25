@@ -1,6 +1,6 @@
 (function(){
 
-	//To open an ajax server locally: 
+	//To open an ajax server locally: python -a SimpleHTTPServer
 
 	var httpRequest,
 	ajaxText = document.querySelector('.placeholder');
