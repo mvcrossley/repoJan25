@@ -1,0 +1,15 @@
+body { padding: 40px; }
+
+.wrapper { display: inline-block; cursor: pointer; }
+
+.server-icon { 
+  cursor: pointer;
+  padding: 13px;
+  background-color: #ccc;
+  color: white;
+  border-radius: 27px;
+  font-size: 1.5em;
+  margin-right: 12px; 
+}
+
+.wrapper span { font-size: 1.2em; }
